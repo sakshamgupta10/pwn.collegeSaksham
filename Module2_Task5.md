@@ -2,7 +2,8 @@
 In this challenge we learn that we can navigate around directories by using the cd command.
 
 ## My solve
-**Flag:** 'pwn.college{4ftvhum7HKPcx9RFMX8yF-S9wUB.QX3QTN0wiN0AzNzEzW}'
+**Flag:** 'pwn.college{UutNZWWilU04MU2J-X_-7uUfK7I.QX4QTN0wiN0AzNzEzW}'
+
 ```bash
 hacker@paths~position-yet-elsewhere:~$ /challenge/run
 Incorrect...
