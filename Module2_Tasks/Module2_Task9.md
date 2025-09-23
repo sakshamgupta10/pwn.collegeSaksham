@@ -6,10 +6,6 @@ In this challenge we will learn that our shell session will start with your home
 hacker@paths~home-sweet-home:/challenge$ cd /challenge
 hacker@paths~home-sweet-home:/challenge$ ./run
 You must provide an argument to /challenge/run when you invoke it!
-hacker@paths~home-sweet-home:/challenge$ cd temp
-bash: cd: temp: No such file or directory
-hacker@paths~home-sweet-home:/challenge$ cd tmp
-bash: cd: tmp: No such file or directory
 hacker@paths~home-sweet-home:/challenge$ cd /tmp
 hacker@paths~home-sweet-home:/tmp$ /challenge/run ~/f
 Writing the file to /home/hacker/f!
