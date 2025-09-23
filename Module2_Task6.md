@@ -1,7 +1,8 @@
 # Challenge Name: Implcit relative paths, from /
 In this challenge we learnt the use of relative paths and how they are different from actual paths.
 ## My solve
-**Flag:** 'pwn.college{4ftvhum7HKPcx9RFMX8yF-S9wUB.QX3QTN0wiN0AzNzEzW}'
+**Flag:** 'pwn.college{cLRk93wK4rrWK6HxXpWiOP8umIw.QX5QTN0wiN0AzNzEzW}
+'
 ```bash
 hacker@paths~implicit-relative-paths-from-:~$ /challenge/run
 Incorrect...
