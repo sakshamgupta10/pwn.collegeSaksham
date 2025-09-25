@@ -1,8 +1,7 @@
 # Challenge Name: moving files
 In this challenge we will learn how to move files using mv command.
 ## My solve
-**Flag:** 'pwn.college{MMqtT36noB-qUBZL7tTy2u10jyR.0VOxEzNxwiN0AzNzEzW}
-'
+**Flag:** 'pwn.college{MMqtT36noB-qUBZL7tTy2u10jyR.0VOxEzNxwiN0AzNzEzW}'
 ```bash
 hacker@commands~moving-files:~$ ls
 COLLEGE  f
