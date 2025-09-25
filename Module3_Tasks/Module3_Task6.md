@@ -1,4 +1,4 @@
-# Challenge Name: comparing files
+# Challenge Name: listing files
 In this challenge we will learn how to list the contents of files using the ls command.
 ## My solve
 **Flag:** 'pwn.college{MhXaBXVURJ4U_AuPAf4Y2wGu6jA.QX4IDO0wiN0AzNzEzW}'
