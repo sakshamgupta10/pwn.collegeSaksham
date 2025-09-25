@@ -1,5 +1,5 @@
 # Challenge Name: catting absolute paths
-In this challenge we will learn how to use the cat command which is used for reading out files.
+In this challenge we will learn how to specify cat's arguments as absolute paths:
 ## My solve
 **Flag:** 'pwn.college{I-oiqsv7NZtt50H7QJZ37K9kuH8.QX5ETO0wiN0AzNzEzW}'
 ```bash
