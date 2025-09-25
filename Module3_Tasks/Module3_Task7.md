@@ -17,7 +17,7 @@ pwn.college{E8qhe5PpjhBH0zM0fIeFhStrL4a.QXwMDO0wiN0AzNzEzW}
 
 I showed my solve before.
 My thought process: We can create files using the touch command.
-It is quite simple, we just write touch and then the file name we want, then we create a file.
+It is quite simple, we just write touch and then write the file name we want, then we create a file.
 
 ## What I learned
 I learnt how to create files using the touch command.
