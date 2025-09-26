@@ -16,7 +16,7 @@ pwn.college{g2a69ZR56tb6FrqTWWyl-oMUHzU.QXxMDO0wiN0AzNzEzW}
 ```
 
 I showed my solve before.
-My thought process: We can find make directories using the mkdir command.
+My thought process: We can make directories using the mkdir command.
 It is quite simple, we just write mkdir, then our directory name and then the directory is created.
 
 ## What I learned
