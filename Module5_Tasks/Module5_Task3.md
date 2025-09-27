@@ -1,4 +1,4 @@
-# Challenge Name: Matching with *
+# Challenge Name: Matching with []
 In this challenge we will learn what [] is.
 ## My solve
 **Flag:** 'pwn.college{w2d5J-C5_2CiBhQHuMfraZoTXL-.QXzIDO0wiN0AzNzEzW}'
